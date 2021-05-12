@@ -217,6 +217,7 @@ public class ClinicaVeterinaria {
 		System.out.println("6. Guardar la informaci�n de clientes en ficheros");            
 		System.out.println("7. Salir");
 		System.out.println("=====================================================");
+	return true;
 	}
 
 }
