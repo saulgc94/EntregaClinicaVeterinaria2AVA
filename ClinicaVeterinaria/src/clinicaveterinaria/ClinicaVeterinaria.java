@@ -206,7 +206,7 @@ public class ClinicaVeterinaria {
 		return 0;
 	}
 
-	private static void muestraMenu() {
+	private static boolean muestraMenu() {
 		System.out.println("=====================================================");
 		System.out.println("�Qu� quieres hacer?");
 		System.out.println("1. A�adir un nuevo cliente");
